@@ -1,3 +1,4 @@
-# Build settings
+theme: jekyll-theme-minimal
 markdown: kramdown
-theme: minimal
+title: GATEKEEPER OU Team
+description: GATEKEEPER OU repositories and works
